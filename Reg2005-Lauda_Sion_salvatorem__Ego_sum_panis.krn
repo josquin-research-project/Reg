@@ -8,8 +8,8 @@
 **kern	**kern	**kern	**kern	**kern
 *staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
-*I"Bassus	*I"Tenor	*I"Tenor	*I"Altus	*I"Superius
-*I'B	*I'T	*I'T	*I'A	*I'S
+*I"Bassus	*I"Tenor2	*I"Tenor	*I"Altus	*I"Superius
+*I'B	*I'T2	*I'T	*I'A	*I'S
 *>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
 *>A	*>A	*>A	*>A	*>A
 *clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2
