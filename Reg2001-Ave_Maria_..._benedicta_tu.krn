@@ -1,10 +1,10 @@
-!!!COM:	Regis, Johannes
-!!!CDT:	~1425///-~1496///
-!!!OTL:	Ave Maria ... benedicta tu
-!!!AGN:	Motet
-!!!SCT:	Reg2001
-!!!SCA:	Reg2001
-!!!voices:	3
+!!!COM: Regis, Johannes
+!!!CDT: ~1425///-~1496///
+!!!OTL: Ave Maria ... benedicta tu
+!!!AGN: Motet
+!!!SCT: Reg2001
+!!!SCA: Reg2001
+!!!voices: 3
 **kern	**text	**kern	**text	**kern	**text
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*
@@ -385,9 +385,9 @@
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Victoria Chang/Jesse Rodin
-!!!END:	2014/02/25/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/02/25/
-!!!ONB:	Translated from MusicXML and edited on 2014/02/25/ by Craig Sapp
+!!!ENC: Victoria Chang/Jesse Rodin
+!!!END: 2014/02/25/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/02/25/
+!!!ONB: Translated from MusicXML and edited on 2014/02/25/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v105,105,130Q16
